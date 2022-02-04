@@ -2,9 +2,9 @@ his is the page I made to implement tipping in articles. These days good article
 
 Here are the screenshot of project
 
-![screenshot 1](https://ipfs.io/ipfs/QmSupWTeA4qYvqfbgay8PD38EhC8FPLN8hMnAZbE4WnWHr?filename=ss1.png)
+![Screenshot 1](https://previews.dropbox.com/p/thumb/ABb4pW1k8ElcY8bCrlxgFSNFmvgpRRvwJK0aVvIMkwrd3LbG-4gLVccSzfBWvYXZP-8psy8WWmv-X4nMNfA6IooPL-tweZwe6qGoioSQJ7YFUue3mVlvdRcxXlSqjALv90HJeOwab1U4Ns1xR143AnH-ADyfxnY_BJFeax1K37Jx80CWYbVSqGoDJAvcitsn_zIUPDMzjnmi6w9wpGycZzSyMPUROFK8laoCutvZ-0EbTpaSbsbpMBt-ixezE7FVYtoy0QIWQ8FMiJLGFSa9cCF_c0Wq_W6XanT0Q6a5rglNj5FSfQYdc5WYuggOqACwVgPhRFi48Kv0Cc_0mkrDiAZu_YZ2qTVexOrIbBGQQQky1w/p.png)
 
-![screenshot 2](https://ipfs.io/ipfs/QmbNXVhaPMM1sQ8Gv9GMZtmP73RDzRp48a7UBwc2iCSoJW?filename=ss2.png)
+![Screenshot 2](https://previews.dropbox.com/p/thumb/ABb52QtD07BBF3DWi6pQprNhspTr6yfbsh3XV_vXeacyP51Vv4Rc6beaSEt4q1AMaG8zPYseoIU7d4-wPlMt2GDzowdgNgw0hXbTK88mNcNqrM9Uzq4ToM-nPRnXXeSE2M_v7q0SR31xkXbfiU7uwsBJZUEdcTM31_PIdA8xHKcjEXq7C0bTHelqJsyd6tTtUjFdNVvWcMgO8y1qBCUeYOhbkNoj1fNja0BofGFhJhpm0-5Yxh_D01pRtEPdgNsSopHAVRro_AwraasWmJjt_4AFv6QeXhFcmMw5L-dKg7iMLzRlz0vkuJXNk0ioGwCeML2gYEb4API1nyWmHhpLQEGlXmzoPOlEBvbD1DhawxGobA/p.png)
 
 =============================================================================================================================================================
 

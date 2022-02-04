@@ -2,9 +2,9 @@ his is the page I made to implement tipping in articles. These days good article
 
 Here are the screenshot of project
 
-![Screenshot 1](https://previews.dropbox.com/p/thumb/ABb4pW1k8ElcY8bCrlxgFSNFmvgpRRvwJK0aVvIMkwrd3LbG-4gLVccSzfBWvYXZP-8psy8WWmv-X4nMNfA6IooPL-tweZwe6qGoioSQJ7YFUue3mVlvdRcxXlSqjALv90HJeOwab1U4Ns1xR143AnH-ADyfxnY_BJFeax1K37Jx80CWYbVSqGoDJAvcitsn_zIUPDMzjnmi6w9wpGycZzSyMPUROFK8laoCutvZ-0EbTpaSbsbpMBt-ixezE7FVYtoy0QIWQ8FMiJLGFSa9cCF_c0Wq_W6XanT0Q6a5rglNj5FSfQYdc5WYuggOqACwVgPhRFi48Kv0Cc_0mkrDiAZu_YZ2qTVexOrIbBGQQQky1w/p.png)
+![Screenshot 1](https://github.com/whyyor/article/blob/main/public/ss1.png?raw=true)
 
-![Screenshot1](https://github.com/whyyor/article/blob/main/public/ss2.png?raw=true)
+![Screenshot 2](https://github.com/whyyor/article/blob/main/public/ss2.png?raw=true)
 
 =============================================================================================================================================================
 

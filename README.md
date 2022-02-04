@@ -4,7 +4,7 @@ Here are the screenshot of project
 
 ![Screenshot 1](https://previews.dropbox.com/p/thumb/ABb4pW1k8ElcY8bCrlxgFSNFmvgpRRvwJK0aVvIMkwrd3LbG-4gLVccSzfBWvYXZP-8psy8WWmv-X4nMNfA6IooPL-tweZwe6qGoioSQJ7YFUue3mVlvdRcxXlSqjALv90HJeOwab1U4Ns1xR143AnH-ADyfxnY_BJFeax1K37Jx80CWYbVSqGoDJAvcitsn_zIUPDMzjnmi6w9wpGycZzSyMPUROFK8laoCutvZ-0EbTpaSbsbpMBt-ixezE7FVYtoy0QIWQ8FMiJLGFSa9cCF_c0Wq_W6XanT0Q6a5rglNj5FSfQYdc5WYuggOqACwVgPhRFi48Kv0Cc_0mkrDiAZu_YZ2qTVexOrIbBGQQQky1w/p.png)
 
-![Screenshot 2](https://www.dropbox.com/s/p7omevjyz3xz91s/ss2.png?dl=0)
+![Screenshot 2](article/public/ss2.png?raw=true "Title")
 
 =============================================================================================================================================================
 

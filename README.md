@@ -1,3 +1,13 @@
+his is the page I made to implement tipping in articles. These days good articles with proper news struggle to get attention and end up getting no money. I wanted to implement a system where readers could donate to their favorite articles.
+
+Here are the screenshot of project
+
+![screenshot 1](https://ipfs.io/ipfs/QmSupWTeA4qYvqfbgay8PD38EhC8FPLN8hMnAZbE4WnWHr?filename=ss1.png)
+
+![screenshot 2](https://ipfs.io/ipfs/QmbNXVhaPMM1sQ8Gv9GMZtmP73RDzRp48a7UBwc2iCSoJW?filename=ss2.png)
+
+=============================================================================================================================================================
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

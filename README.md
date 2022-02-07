@@ -1,4 +1,6 @@
-his is the page I made to implement tipping in articles. These days good articles with proper news struggle to get attention and end up getting no money. I wanted to implement a system where readers could donate to their favorite articles.
+This is the page I made to implement tipping in articles. These days good articles with proper news struggle to get attention and end up getting no money. I wanted to implement a system where readers could donate to their favorite articles.
+
+Thanks to my teammate Aryaman Jora for helping me with this project.
 
 Here are the screenshot of project
 

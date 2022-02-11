@@ -1,3 +1,15 @@
+This is the page I made to implement tipping in articles. These days good articles with proper news struggle to get attention and end up getting no money. I wanted to implement a system where readers could donate to their favorite articles.
+
+Thanks to my teammate Aryaman Jora for helping me with this project.
+
+Here are the screenshot of project
+
+![Screenshot 1](https://github.com/whyyor/article/blob/main/public/ss1.png?raw=true)
+
+![Screenshot 2](https://github.com/whyyor/article/blob/main/public/ss2.png?raw=true)
+
+=============================================================================================================================================================
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

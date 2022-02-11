@@ -1,9 +1,17 @@
 import React from 'react'
 
-function header({connect,isLoggedIn}) {
+function header({connect,isLoggedIn,isPage}) {
     let loginButton = <div onClick={connect} className="loginButton">Connect</div>;
+    let option = <div></div>
     if(isLoggedIn){
         loginButton = <div className="loggedInButton">Connected</div>
+    }
+    if(isPage){
+        option = <div className="headerItems">
+                <p>Save</p>
+                <p>Tweet</p>
+                <p>Report</p>
+            </div>
     }
     return (
         <div className="header">
@@ -16,11 +24,7 @@ function header({connect,isLoggedIn}) {
                 </div>
                 <input type="text" placeholder='Author, article or account...' className="searchInput" />
             </div>
-            <div className="headerItems">
-                <p>Save</p>
-                <p>Tweet</p>
-                <p>Report</p>
-            </div>
+            {option}
             <div className="headerActions">
                 <div className="likeContainer">
                     <img src='/heart.png' className='likeButton' alt="LikeButton" />

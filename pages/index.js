@@ -11,6 +11,7 @@ import Article from '../components/article';
 export default function Home() {
   const [accounts, setAccounts] = useState([])
   const [isLoggedIn,setIsLoggedIn] = useState(false)
+  const [isPage,setIsPage] = useState(true)
 
   const connect = async function () {
     let a = await window.ethereum.request({ method: "eth_requestAccounts" })
@@ -49,7 +50,7 @@ export default function Home() {
 
   return (
     <main>
-      <Header connect={connect} isLoggedIn={isLoggedIn} />
+      <Header connect={connect} isLoggedIn={isLoggedIn} isPage={isPage}/>
       <Article isLoggedIn={isLoggedIn} sendEth={sendEth} />
     </main>
   )

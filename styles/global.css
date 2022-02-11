@@ -1,3 +1,14 @@
+@keyframes shadowAnimation{
+    0%{
+       box-shadow: -5px 5px 2px rgba(237, 76, 100, .0);
+       box-shadow: 5px -5px 2px rgba(237, 76, 100, .0);
+    }
+    100%{
+       box-shadow: -5px 5px 2px rgba(237, 76, 100, .2);
+       box-shadow: 5px -5px 2px rgba(237, 76, 100, .2);
+    }
+}
+
 .header {
     height: 100px;
     display: flex;
@@ -153,4 +164,43 @@
     background-image: linear-gradient(to right, #ed4c64, #fc6767);
     background-clip: text;
     color: transparent;
+}
+
+/* -----------------------------------------------------------------CARD------------------------------------------------------------------------*/
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    animation-name: shadowAnimation;
+    animation-duration: 2s;
+    box-shadow: 5px -5px 2px rgba(237, 76, 100, .2);
+    border-radius: 7px;
+    margin-left: 2rem;
+    margin: 2rem;
+
+}
+
+.card  h1 {
+    font-family: 'Source Sans Pro';
+    padding-left: 1rem;
+    color: #808090;
+}
+
+.card p{
+    margin-top: -5px;
+    padding: 0 1rem 0 1rem;
+    color: #808090;
+}
+
+.card span{
+    margin-top: -5px;
+    padding: .5rem 1rem 1rem 1rem;
+    color: #808090;
+}
+
+.collection{
+    display: flex;
+    overflow: hidden;
+    padding: 0 5rem 0 5rem;
+    justify-content: space-around;
 }

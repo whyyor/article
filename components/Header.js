@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import React from 'react'
 
 function header({connect,isLoggedIn,isPage}) {
@@ -15,9 +16,11 @@ function header({connect,isLoggedIn,isPage}) {
     }
     return (
         <div className="header">
-            <div className='logoContainer'>
-                <img src='/articleLogo.png' className='articleLogo' alt="Logo" />
-            </div>
+            <Link href='/'>
+                <div className='logoContainer'>
+                    <img src='/articleLogo.png' className='articleLogo' alt="Logo" />
+                </div>
+            </Link>
             <div className="searchBar">
                 <div className="searchIconContainer">
                     <img src='/searchIcon.png' alt="searchIcon" className="searchIcon" />

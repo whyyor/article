@@ -15,6 +15,9 @@ export default function Home() {
   const [isPage,setIsPage] = useState(false)
 
   const connect = async function () {
+      if(!window.ethereum){
+          alert('Please install metamask wallet')
+      }
     let a = await window.ethereum.request({ method: "eth_requestAccounts" })
     setAccounts(a)
   }
